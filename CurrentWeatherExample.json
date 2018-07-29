@@ -1,0 +1,9 @@
+{
+    "main": {
+        "temp": 29.34
+    },
+    "wind": { "speed": 8 },
+    "clouds": { "all": 75 },
+    "name": "Dnipropetrovsk",
+    "cod": 200
+}
